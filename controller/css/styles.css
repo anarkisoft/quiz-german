@@ -1,0 +1,17 @@
+html{height: 100%}
+body{width:960px; height: 100%; margin:15px auto; font-family:Arial, "MS Trebuchet", sans-serif;}
+p{margin:0 0 20px 0;}
+p, li{line-height:20px;}
+#headerTop{background-color: #DAA520;}
+#headerTop nav{padding: 5px 0px; background-color:#B0C4DE; text-align: center;}
+#headerTop nav ul{list-style:none; margin:0; padding:0;}
+#headerTop nav ul li{padding:0; margin:0 20px 0 0; display:inline;}
+#sectionCont{float:left; width:75%; background-color:#A52A2A; height:-moz-calc(100% - 150px); height:calc(100% - 114px);}
+#sectionCont aside{float:right; width:35%; margin-left:5%; font-size:20px; line-height:40px;}
+.articleCont p{padding: 10px;}
+#sideBarCont{float:left; width:25%; background-color:#008000; height:-moz-calc(100% - 150px); height:calc(100% - 114px);}
+#sideBarCont nav{padding: 22px;}
+#footerCont{clear:both; position: fixed; bottom: 0; width: 960px; display:block; text-align:center; background-color: #708090;}
+#footerCont nav ul{list-style:none; margin:0; padding:0;}
+#footerCont nav ul li{padding:0; margin:0 20px 0 0; display:inline;}
+/*.articleCont{background-color:#008000;}*/
